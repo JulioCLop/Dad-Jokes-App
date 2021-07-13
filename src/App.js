@@ -1,12 +1,11 @@
 
 import './App.css';
+import JokeList from './components/jokelist.component';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      
-      </header>
+      <JokeList />
     </div>
   );
 }
