@@ -5,6 +5,7 @@
     justify-content: center;
     font-weight: 400;
     padding: 1rem;
+  
 }
 
 .joke-button{
@@ -42,5 +43,6 @@
     font-size: 3rem;
     margin-left: auto;
     border-radius: 50%;
-    
+
 }
+
