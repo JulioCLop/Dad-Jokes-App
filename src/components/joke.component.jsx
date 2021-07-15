@@ -39,18 +39,7 @@ class Joke extends Component{
 }
     }
   
-   
-   
-   
-   
-   
-
-
-
-
-
-
-
+ 
 
     render() {
         return (
