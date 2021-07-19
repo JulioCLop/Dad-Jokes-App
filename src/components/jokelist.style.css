@@ -42,3 +42,9 @@ letter-spacing: 0;
     box-shadow: 0 19px 38px rgba(2,0,36,1) , 0 15px 12px rgba(9,9,121,1) ;
 
 }
+
+.Jokelist-loader{
+    color: white;
+    text-align: center;
+
+}
