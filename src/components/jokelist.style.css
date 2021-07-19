@@ -48,3 +48,24 @@ letter-spacing: 0;
     text-align: center;
 
 }
+.Jokelist-getmore{
+    font-size: 1.5rem;
+    width: 50%;
+    border-radius: 2rem;
+    padding: 1rem 2rem;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,1) 100%);
+    color: white;
+    font-weight: 700;
+    outline: none;
+    border: none;
+    margin: 2rem;
+    box-shadow: 0 19px 38px rgba(2,0,36,1) , 0 15px 12px rgba(9,9,121,1) ;
+    word-spacing: 1rem;
+    cursor: pointer;
+    transition: 0.8s cubic-bezier(0.2,1,0.2,1);
+}
+
+.Jokelist-getmore:hover{
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30px rgba(0,0,0,0.25);
+}
